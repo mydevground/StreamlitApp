@@ -1,3 +1,3 @@
-# Data Viz with Streamlit Cloud
+# Data Viz with Streamlit App
 
 
